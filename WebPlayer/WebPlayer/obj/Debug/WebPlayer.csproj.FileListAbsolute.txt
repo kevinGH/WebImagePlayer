@@ -1,0 +1,4 @@
+D:\WebImagePlayer\WebPlayer\WebPlayer\bin\WebPlayer.dll
+D:\WebImagePlayer\WebPlayer\WebPlayer\bin\WebPlayer.pdb
+D:\WebImagePlayer\WebPlayer\WebPlayer\obj\Debug\WebPlayer.dll
+D:\WebImagePlayer\WebPlayer\WebPlayer\obj\Debug\WebPlayer.pdb
